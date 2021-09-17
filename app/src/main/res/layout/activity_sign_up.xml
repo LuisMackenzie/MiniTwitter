@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/azul"
+    tools:context=".Activities.SignUpActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        app:layout_constraintBottom_toTopOf="@+id/et_name_sign"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed"
+        app:srcCompat="@drawable/ic_logo_minitwitter_white" />
+
+    <EditText
+        android:id="@+id/et_name_sign"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="@string/nombre_de_usuario"
+        android:inputType="textPersonName"
+        android:textColor="@color/white"
+        android:textColorHighlight="@color/azul_dark"
+        android:textColorHint="@color/azul_dark"
+        android:textColorLink="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/et_email_sign"
+        app:layout_constraintEnd_toEndOf="@+id/imageView"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <EditText
+        android:id="@+id/et_email_sign"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="@string/hint_email"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/white"
+        android:textColorHighlight="@color/azul_dark"
+        android:textColorHint="@color/azul_dark"
+        android:textColorLink="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/et_pass_sign"
+        app:layout_constraintEnd_toEndOf="@+id/et_name_sign"
+        app:layout_constraintStart_toStartOf="@+id/et_name_sign"
+        app:layout_constraintTop_toBottomOf="@+id/et_name_sign" />
+
+    <EditText
+        android:id="@+id/et_pass_sign"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="@string/hint_pass"
+        android:inputType="textPassword"
+        android:textColor="@color/white"
+        android:textColorHighlight="@color/azul_dark"
+        android:textColorHint="@color/azul_dark"
+        android:textColorLink="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/btn_sign"
+        app:layout_constraintEnd_toEndOf="@+id/et_email_sign"
+        app:layout_constraintStart_toStartOf="@+id/et_email_sign"
+        app:layout_constraintTop_toBottomOf="@+id/et_email_sign" />
+
+    <Button
+        android:id="@+id/btn_sign"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/btn_sign"
+        android:textColor="@color/azul"
+        app:layout_constraintBottom_toTopOf="@+id/tv_goLogin"
+        app:layout_constraintEnd_toEndOf="@+id/et_pass_sign"
+        app:layout_constraintStart_toStartOf="@+id/et_pass_sign"
+        app:layout_constraintTop_toBottomOf="@+id/et_pass_sign" />
+
+    <TextView
+        android:id="@+id/tv_goLogin"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:text="@string/volver_al_registro"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/btn_sign"
+        app:layout_constraintStart_toStartOf="@+id/btn_sign"
+        app:layout_constraintTop_toBottomOf="@+id/btn_sign" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
