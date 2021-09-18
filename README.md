@@ -1,93 +1,44 @@
-# Título del Proyecto
+# Mini Twitter
 
-_Acá va un párrafo que describa lo que es el proyecto_
+It is an app that tries to imitate the functionality of the famous social network.
 
-## Comenzando 🚀
+## Getting Started 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+### Setup development environment 📋
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+* [Android Studio](https://developer.android.com/studio)
+
+* [Android SDK Tools](https://developer.android.com/studio#Other)
 
 
-### Pre-requisitos 📋
+### Build & Run the application 🔧
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
-
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
+1. Get the source code.
 
 ```
-Da un ejemplo
+git clone --recursive https://github.com/LuisMackenzie/TicTacToe-Game.git
 ```
 
-_Y repite_
+### Notice
 
-```
-hasta finalizar
-```
+This project does not include copyrighted live broadcasts of any kind. It is a project with educational purposes. The live broadcasts that have been used are copyright free.
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
+## Built with 🛠️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+* [Android Studio](https://developer.android.com/studio) - The Android framework recomended by Google
+* [Gradle](https://gradle.org/) - Gradle, is a tool and dependency manager that allows open source compilation automation, which is focused on flexibility and performance
+* [Glide](https://bumptech.github.io/glide/) - Glide is media management and image loading framework for Android
+* [Picasso](https://square.github.io/picasso/) - Picasso allows for hassle-free image loading in your application
+* [ExoPlayer](https://exoplayer.dev/) - ExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet
+* [Gson](https://github.com/google/gson) - Library that can be used to convert Java Objects into their JSON representation.
+* [Volley](https://github.com/google/volley) - Volley is an HTTP library that facilitates and speeds up the use of networks in Android apps
 
-### Analice las pruebas end-to-end 🔩
+## Autors ✒️
 
-_Explica que verifican estas pruebas y por qué_
+* **Luis Baez** - *Initial work* - [My Github](https://github.com/LuisMackenzie)
 
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
+<!--
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
@@ -97,9 +48,9 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* etc.
+* etc.  -->
 
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ with ❤️ by [Luis Baez](https://github.com/LuisMackenzie) 😊
