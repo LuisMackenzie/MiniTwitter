@@ -16,12 +16,8 @@ It is an app that tries to imitate the functionality of the famous social networ
 1. Get the source code.
 
 ```
-git clone --recursive https://github.com/LuisMackenzie/TicTacToe-Game.git
+git clone --recursive https://github.com/LuisMackenzie/MiniTwitter.git
 ```
-
-### Notice
-
-
 
 
 ## Built with 🛠️
