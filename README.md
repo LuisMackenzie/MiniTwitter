@@ -31,7 +31,6 @@ git clone --recursive https://github.com/LuisMackenzie/TicTacToe-Game.git
 * [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 * [Gson](https://github.com/google/gson) - Library that can be used to convert Java Objects into their JSON representation.
 * [Glide](https://bumptech.github.io/glide/) - Glide is media management and image loading framework for Android
-* [Gson](https://github.com/google/gson) - Library that can be used to convert Java Objects into their JSON representation.
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A fast circular ImageView perfect for profile images
 * [Dexter](https://github.com/Karumi/Dexter) - Dexter is an Android library that simplifies the process of requesting permissions at runtime.
 * [Lifecycle](https://developer.android.com/jetpack/androidx/releases/lifecycle) - Lifecycle-optimized components perform actions in response to a change in the lifecycle state of another component, such as activities or shards
