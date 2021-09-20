@@ -2,6 +2,11 @@
 
 It is an app that tries to imitate the functionality of the famous social network.
 
+| <img src="docs_resources/login.png"> | <img src="docs_resources/register.png"> | <img src="docs_resources/home.png"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+| <img src="docs_resources/favorites.png"> | <img src="docs_resources/new_msg.png"> | <img src="docs_resources/profile.png"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+
 ## Getting Started 🚀
 
 ### Setup development environment 📋
