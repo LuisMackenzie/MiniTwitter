@@ -5,7 +5,6 @@ It is an app that tries to imitate the functionality of the famous social networ
 | <img src="docs_resources/login.png"> | <img src="docs_resources/register.png"> | <img src="docs_resources/home.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 | <img src="docs_resources/favorites.png"> | <img src="docs_resources/new_msg.png"> | <img src="docs_resources/profile.png"> |
-| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
 ## Getting Started 🚀
 
@@ -55,4 +54,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-⌨️ with ❤️ by [Luis Baez](https://github.com/LuisMackenzie) 😊
+⌨️ with ❤️ by [Luis](https://github.com/LuisMackenzie) 😊
