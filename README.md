@@ -22,7 +22,7 @@ It is an app that tries to imitate the functionality of the famous social networ
 ```
 git clone --recursive https://github.com/LuisMackenzie/MiniTwitter.git
 ```
-
+2. Or get apk [here](https://github.com/LuisMackenzie/MiniTwitter/raw/master/MiniTwitter.apk)
 
 ## Built with 🛠️
 
